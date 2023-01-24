@@ -1,0 +1,28 @@
+.nav {
+    grid-area: n;
+    background-color: rgb(0, 170, 255);
+
+
+}
+
+.item {
+    text-align: left;
+    padding-top: 50px;
+    padding-left: 30px;
+    font-size: 30px;
+
+}
+
+.item img{height: 50px}
+
+.no_active {
+    text-decoration: none;
+    color: white;
+}
+
+.active {
+    text-decoration: none;
+    color: blue;
+}
+
+

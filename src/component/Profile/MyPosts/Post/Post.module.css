@@ -1,0 +1,29 @@
+
+.item{  display: grid;
+        grid-template-columns: 80px 1fr 1fr;
+        background-color: white;
+        color:black;
+        border-radius: 50px;
+        margin-top: 15.5px;
+
+}
+
+.item img{
+        padding: 10px 20px;
+        width: 50px;
+}
+
+.text{
+        margin-top: auto;
+        margin-bottom: auto;
+        font-size: 20px;
+}
+.like{
+        margin-top: auto;
+        margin-bottom: auto;
+        padding-right: 20px;
+        font-size: 20px;
+        text-align: right;
+}
+
+

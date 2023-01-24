@@ -1,0 +1,29 @@
+.header {
+    grid-area: h;
+    background-color: rgb(0, 170, 255);
+    display: grid;
+    grid-template-columns: 120px 2fr 250px;
+}
+
+.header img {
+    height: 80px;
+}
+
+.text {
+    text-decoration: none;
+    font-family: 'ISOCP2';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 80px;
+    line-height: 64px;
+    color: #000000;
+}
+
+.login_block{
+    text-align: center;
+}
+
+.login_block a{
+    color: white;
+    font-size: 22px;
+}

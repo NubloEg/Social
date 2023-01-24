@@ -1,0 +1,71 @@
+.dialogs {
+    display: grid;
+    grid-template-columns: 2fr 10fr;
+}
+
+.dialogsItems {
+    padding: 10px;
+}
+
+.dialog {
+    font-size: 40px;
+    padding: 20px;
+}
+
+.active {
+    color: blue;
+    text-decoration: none;
+}
+
+.no_active {
+    color: white;
+    text-decoration: none;
+}
+
+.messagesItems {
+    padding: 50px;
+background-color: #262626;
+}
+
+.dialog img {
+    height: 30px;
+}
+
+.messageMe {
+    font-size: 40px;
+    padding: 20px;
+    color: white;
+    text-align: right;
+}
+
+.messageFriend {
+    font-size: 40px;
+    padding: 20px;
+    color: white;
+    
+}
+
+.depress_message{
+    text-align: right;
+}
+
+.area_message{
+    width: 98%;
+    height: 60px;
+    border-radius: 45px;
+    padding-left: 20px;
+    padding-top: 5px;
+
+
+
+
+}
+
+.btn_message{
+   border:none;
+    border-radius: 10px;
+    background-color: blue;
+    color: white;
+
+}
+

@@ -1,0 +1,30 @@
+.posts_block{
+        margin: 20px;
+}
+
+.Posts{
+        padding-top: 10px;
+}
+.item{
+        color:yellow;
+
+}
+
+.area_post{
+        font-size: 20px;
+        border-radius: 50px;
+        padding-left: 50px;
+        padding-top: 20px;
+        width: 1550px;
+        height: 123px;
+}
+
+.btn_post{
+        border-radius: 10px;
+        border:none;
+        font-size: 20px;
+
+}
+.btn{
+        text-align: right;
+}

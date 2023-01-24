@@ -1,0 +1,19 @@
+.infoMe{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.block{
+    padding-top: 15px;
+    font-family: SansSerif;
+    color: white;
+    font-size: 48px;
+    text-align: left;
+}
+
+a{
+    text-decoration:none;
+}
+
+
+
